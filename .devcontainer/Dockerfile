@@ -1,5 +1,5 @@
 # Dockerfile
-#
+# VS Code
 
 FROM francojc/qtalr-r:latest
 
