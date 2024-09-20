@@ -1,0 +1,11 @@
+{
+  "name": "qtalr-vscode devcontainer",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": ["REditorSupport.r", "quarto.quarto"],
+  "settings": {
+    "r.rterm.linux": "/usr/local/bin/R",
+    "r.lsp.diagnostics": true
+  }
+}
